@@ -25,3 +25,5 @@ burger prices, the location, etc. To do so, we would like to enhance the DSS to 
 based on location data and predicted burger revenues.
 
 Here is a Shiny app to provide location recommendations to visit the shop. 
+
+![alt text](https://github.com/rohitghsh/BountyBurgersShinyApp/blob/main/BountyBurgers.png)
